@@ -1,0 +1,29 @@
+/* 
+    Document   : Login
+    Created on : Apr 30, 2012, 11:35:44 PM
+    Author     : Leader
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+    Document   : member
+    Created on : Apr 29, 2012, 2:35:57 PM
+    Author     : Leader
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body{
+    background: url('../Images/Login Background.jpg') no-repeat;
+}
+
+#body{
+    position: absolute;
+    left:171px;
+    top:250px;
+    width:1000px
+}
+
+
+
